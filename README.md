@@ -2,13 +2,13 @@
 
 ![CSVMerge GTK window](screenshot.png)
 
-This is a Python GTK application built with PyGObject for previewing and merging CSV files obtained with the [ENLIGHTEN Spectroscopy Software](https://wasatchphotonics.com/product-category/software/) from [Wasatch Photonics](https://wasatchphotonics.com/). The application has been tested and works on Fedora 37 and Ubuntu 22.04.
+This is a Python GTK application built with PyGObject for previewing and merging CSV files obtained with the [ENLIGHTEN Spectroscopy Software](https://wasatchphotonics.com/product-category/software/) from [Wasatch Photonics](https://wasatchphotonics.com/). The application has been tested on Fedora 37 and Ubuntu 22.04.
 
 > Are you using Windows? Check out the sibling application [Spectra CSV Merger](https://myweb.uoi.gr/nkourkou/index.php?id=software).
 
 ## Installation
 
-`pip` is required for the installation of the package, wich also handles its dependencies (`pygobject` and `matplotlib`). It can be installed wth the following command (depending on the distribution):
+`pip` is required for the installation of the package, which also handles its dependencies (`pygobject` and `matplotlib`). It can be installed with the following command (depending on the distribution):
 
 - For Ubuntu:
 
